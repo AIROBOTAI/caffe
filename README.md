@@ -1,3 +1,6 @@
+# New SReLU
+An example is shown in [models/bvlc_googlenet](https://github.com/AIROBOTAI/caffe/tree/SReLU/models/bvlc_googlenet)
+
 # Caffe
 
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.

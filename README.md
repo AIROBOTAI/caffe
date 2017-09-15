@@ -2,7 +2,7 @@
 The repo holds the implementation of SReLU based on the paper:
 [Deep Learning with S-shaped Rectified Linear Activation Units](https://arxiv.org/abs/1512.07030). 
 [Caffe](https://github.com/BVLC/caffe) needs to be installed before using SReLU. 
-An concrete example (train script, prototxt and solver files are included) is shown in [models/bvlc_googlenet](https://github.com/AIROBOTAI/caffe/tree/SReLU/models/bvlc_googlenet)
+A concrete example (train script, prototxts and solver files are included) is shown in [models/bvlc_googlenet](https://github.com/AIROBOTAI/caffe/tree/SReLU/models/bvlc_googlenet)
 
 If you use SReLU in your research, please cite our paper:
 
